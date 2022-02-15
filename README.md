@@ -4,9 +4,9 @@ My_Runner is the second SFML project in C.
 
 ## Contents 📌
 
- - [Goal](https://github.com/Thorf1nn/my_runner/blob/main/README.md#goal-)
- - [Usage](https://github.com/Thorf1nn/my_runner/blob/main/README.md#usage-)
- - [Help](https://github.com/Thorf1nn/my_runner/blob/main/README.md#help-)
+ - [Goal](https://github.com/Thorf1nn/my_runner#goal-)
+ - [Usage](https://github.com/Thorf1nn/my_runner#usage-)
+ - [Help](https://github.com/Thorf1nn/my_runner#help-)
 
 
 ## Goal 🎯
